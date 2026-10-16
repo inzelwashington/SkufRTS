@@ -1,0 +1,181 @@
+{
+  "factions": {
+    "skufs": {
+      "select": [
+        "vo/skufs/select_00.wav",
+        "vo/skufs/select_01.wav",
+        "vo/skufs/select_02.wav",
+        "vo/skufs/select_03.wav",
+        "vo/skufs/select_04.wav",
+        "vo/skufs/select_05.wav",
+        "vo/skufs/select_06.wav",
+        "vo/skufs/select_07.wav"
+      ],
+      "move": [
+        "vo/skufs/move_00.wav",
+        "vo/skufs/move_01.wav",
+        "vo/skufs/move_02.wav",
+        "vo/skufs/move_03.wav",
+        "vo/skufs/move_04.wav",
+        "vo/skufs/move_05.wav",
+        "vo/skufs/move_06.wav",
+        "vo/skufs/move_07.wav"
+      ],
+      "attack": [
+        "vo/skufs/attack_00.wav",
+        "vo/skufs/attack_01.wav",
+        "vo/skufs/attack_02.wav",
+        "vo/skufs/attack_03.wav",
+        "vo/skufs/attack_04.wav",
+        "vo/skufs/attack_05.wav",
+        "vo/skufs/attack_06.wav"
+      ],
+      "ready": [
+        "vo/skufs/ready_00.wav",
+        "vo/skufs/ready_01.wav",
+        "vo/skufs/ready_02.wav",
+        "vo/skufs/ready_03.wav",
+        "vo/skufs/ready_04.wav"
+      ],
+      "built": [
+        "vo/skufs/built_00.wav",
+        "vo/skufs/built_01.wav",
+        "vo/skufs/built_02.wav",
+        "vo/skufs/built_03.wav",
+        "vo/skufs/built_04.wav"
+      ],
+      "harvest": [
+        "vo/skufs/harvest_00.wav",
+        "vo/skufs/harvest_01.wav",
+        "vo/skufs/harvest_02.wav",
+        "vo/skufs/harvest_03.wav",
+        "vo/skufs/harvest_04.wav"
+      ],
+      "death": [
+        "vo/skufs/death_00.wav",
+        "vo/skufs/death_01.wav",
+        "vo/skufs/death_02.wav",
+        "vo/skufs/death_03.wav"
+      ]
+    },
+    "altushkas": {
+      "select": [
+        "vo/altushkas/select_00.wav",
+        "vo/altushkas/select_01.wav",
+        "vo/altushkas/select_02.wav",
+        "vo/altushkas/select_03.wav",
+        "vo/altushkas/select_04.wav",
+        "vo/altushkas/select_05.wav",
+        "vo/altushkas/select_06.wav",
+        "vo/altushkas/select_07.wav"
+      ],
+      "move": [
+        "vo/altushkas/move_00.wav",
+        "vo/altushkas/move_01.wav",
+        "vo/altushkas/move_02.wav",
+        "vo/altushkas/move_03.wav",
+        "vo/altushkas/move_04.wav",
+        "vo/altushkas/move_05.wav",
+        "vo/altushkas/move_06.wav"
+      ],
+      "attack": [
+        "vo/altushkas/attack_00.wav",
+        "vo/altushkas/attack_01.wav",
+        "vo/altushkas/attack_02.wav",
+        "vo/altushkas/attack_03.wav",
+        "vo/altushkas/attack_04.wav",
+        "vo/altushkas/attack_05.wav"
+      ],
+      "ready": [
+        "vo/altushkas/ready_00.wav",
+        "vo/altushkas/ready_01.wav",
+        "vo/altushkas/ready_02.wav",
+        "vo/altushkas/ready_03.wav",
+        "vo/altushkas/ready_04.wav"
+      ],
+      "built": [
+        "vo/altushkas/built_00.wav",
+        "vo/altushkas/built_01.wav",
+        "vo/altushkas/built_02.wav",
+        "vo/altushkas/built_03.wav",
+        "vo/altushkas/built_04.wav"
+      ],
+      "harvest": [
+        "vo/altushkas/harvest_00.wav",
+        "vo/altushkas/harvest_01.wav",
+        "vo/altushkas/harvest_02.wav",
+        "vo/altushkas/harvest_03.wav",
+        "vo/altushkas/harvest_04.wav"
+      ],
+      "death": [
+        "vo/altushkas/death_00.wav",
+        "vo/altushkas/death_01.wav",
+        "vo/altushkas/death_02.wav",
+        "vo/altushkas/death_03.wav"
+      ]
+    }
+  },
+  "announcer": {
+    "enemySpotted": [
+      "vo/announcer/enemy_spotted_00.wav",
+      "vo/announcer/enemy_spotted_01.wav",
+      "vo/announcer/enemy_spotted_02.wav"
+    ],
+    "baseAttack": [
+      "vo/announcer/base_attack_00.wav",
+      "vo/announcer/base_attack_01.wav",
+      "vo/announcer/base_attack_02.wav"
+    ],
+    "unitReady": [
+      "vo/announcer/unit_ready_00.wav",
+      "vo/announcer/unit_ready_01.wav",
+      "vo/announcer/unit_ready_02.wav"
+    ],
+    "buildingComplete": [
+      "vo/announcer/building_complete_00.wav",
+      "vo/announcer/building_complete_01.wav",
+      "vo/announcer/building_complete_02.wav"
+    ],
+    "insufficientFunds": [
+      "vo/announcer/insufficient_funds_00.wav",
+      "vo/announcer/insufficient_funds_01.wav",
+      "vo/announcer/insufficient_funds_02.wav"
+    ],
+    "lowPower": [
+      "vo/announcer/low_power_00.wav",
+      "vo/announcer/low_power_01.wav",
+      "vo/announcer/low_power_02.wav"
+    ],
+    "buildingLost": [
+      "vo/announcer/building_lost_00.wav",
+      "vo/announcer/building_lost_01.wav",
+      "vo/announcer/building_lost_02.wav"
+    ],
+    "hqLost": [
+      "vo/announcer/hq_lost_00.wav",
+      "vo/announcer/hq_lost_01.wav"
+    ],
+    "enemyHqDestroyed": [
+      "vo/announcer/enemy_hq_destroyed_00.wav",
+      "vo/announcer/enemy_hq_destroyed_01.wav"
+    ],
+    "fieldDepleted": [
+      "vo/announcer/field_depleted_00.wav",
+      "vo/announcer/field_depleted_01.wav"
+    ],
+    "victory": [
+      "vo/announcer/victory_00.wav",
+      "vo/announcer/victory_01.wav",
+      "vo/announcer/victory_02.wav"
+    ],
+    "defeat": [
+      "vo/announcer/defeat_00.wav",
+      "vo/announcer/defeat_01.wav",
+      "vo/announcer/defeat_02.wav"
+    ],
+    "welcome": [
+      "vo/announcer/welcome_00.wav",
+      "vo/announcer/welcome_01.wav"
+    ]
+  }
+}

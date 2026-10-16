@@ -1,0 +1,16 @@
+{
+  "tileSize": 64,
+  "columns": 3,
+  "rows": 3,
+  "tiles": {
+    "grass": 0,
+    "dirt": 1,
+    "sand": 2,
+    "asphalt": 3,
+    "water": 4,
+    "rock": 5,
+    "road_h": 6,
+    "road_v": 7,
+    "road_cross": 8
+  }
+}

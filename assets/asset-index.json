@@ -1,0 +1,16 @@
+{
+  "u_harvester_skufs": "assets/hv/u_harvester_skufs.png#20x20",
+  "u_harvester_altushkas": "assets/hv/u_harvester_altushkas.png#20x20",
+  "b_hq_skufs": "assets/hv/b_hq_skufs.png",
+  "b_hq_altushkas": "assets/hv/b_hq_altushkas.png",
+  "b_power_skufs": "assets/hv/b_power_skufs.png",
+  "b_power_altushkas": "assets/hv/b_power_altushkas.png",
+  "b_barracks_skufs": "assets/hv/b_barracks_skufs.png",
+  "b_barracks_altushkas": "assets/hv/b_barracks_altushkas.png",
+  "b_factory_skufs": "assets/hv/b_factory_skufs.png",
+  "b_factory_altushkas": "assets/hv/b_factory_altushkas.png",
+  "b_refinery_skufs": "assets/hv/b_refinery_skufs.png",
+  "b_refinery_altushkas": "assets/hv/b_refinery_altushkas.png",
+  "b_turret_skufs": "assets/hv/b_turret_skufs.png",
+  "b_turret_altushkas": "assets/hv/b_turret_altushkas.png"
+}

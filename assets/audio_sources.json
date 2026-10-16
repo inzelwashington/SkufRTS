@@ -1,0 +1,112 @@
+[
+  {
+    "file": "sfx/explosion.ogg",
+    "role": "explosion",
+    "pack": "Kenney Sci-Fi Sounds",
+    "author": "Kenney Vleugels (kenney.nl)",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://kenney.nl/assets/sci-fi-sounds",
+    "originalName": "explosionCrunch_004.ogg",
+    "durationSec": 1.98
+  },
+  {
+    "file": "sfx/explosion_small.ogg",
+    "role": "explosion_small",
+    "pack": "Kenney Sci-Fi Sounds",
+    "author": "Kenney Vleugels (kenney.nl)",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://kenney.nl/assets/sci-fi-sounds",
+    "originalName": "explosionCrunch_000.ogg",
+    "durationSec": 0.777
+  },
+  {
+    "file": "sfx/cannon.ogg",
+    "role": "cannon",
+    "pack": "25 CC0 bang / firework SFX",
+    "author": "rubberduck",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://opengameart.org/content/25-cc0-bang-firework-sfx",
+    "originalName": "cannon_02.ogg",
+    "durationSec": 1.795
+  },
+  {
+    "file": "sfx/rifle.ogg",
+    "role": "rifle",
+    "pack": "25 CC0 bang / firework SFX",
+    "author": "rubberduck",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://opengameart.org/content/25-cc0-bang-firework-sfx",
+    "originalName": "shot_01.ogg",
+    "durationSec": 0.459
+  },
+  {
+    "file": "sfx/build_complete.ogg",
+    "role": "build_complete",
+    "pack": "Kenney Music Jingles",
+    "author": "Kenney Vleugels (kenney.nl)",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://kenney.nl/assets/music-jingles",
+    "originalName": "8-Bit jingles/jingles_NES13.ogg",
+    "durationSec": 1.048
+  },
+  {
+    "file": "sfx/unit_ready.ogg",
+    "role": "unit_ready",
+    "pack": "Kenney Interface Sounds",
+    "author": "Kenney Vleugels (kenney.nl)",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://kenney.nl/assets/interface-sounds",
+    "originalName": "confirmation_002.ogg",
+    "durationSec": 0.539
+  },
+  {
+    "file": "sfx/error.ogg",
+    "role": "error",
+    "pack": "Kenney Interface Sounds",
+    "author": "Kenney Vleugels (kenney.nl)",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://kenney.nl/assets/interface-sounds",
+    "originalName": "error_005.ogg",
+    "durationSec": 0.5
+  },
+  {
+    "file": "music/theme_industrial.ogg",
+    "role": "music",
+    "pack": "Abandoned Steel Mill (OpenGameArt submission)",
+    "author": "Spring Spring",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://opengameart.org/content/abandoned-steel-mill",
+    "originalName": "Abandoned Steel Mill_0.ogg",
+    "durationSec": 85.067
+  },
+  {
+    "file": "music/theme_covert_ops.mp3",
+    "role": "music",
+    "pack": "Covert Operations (OpenGameArt submission)",
+    "author": "artisticdude",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://opengameart.org/content/covert-operations",
+    "originalName": "covert_operations.mp3",
+    "durationSec": 99.866
+  },
+  {
+    "file": "music/theme_metal_city.ogg",
+    "role": "music",
+    "pack": "Escape from Metal City (OpenGameArt submission)",
+    "author": "congusbongus",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://opengameart.org/content/escape-from-metal-city",
+    "originalName": "escape_from_metal_city_0.ogg",
+    "durationSec": 178.233
+  }
+]

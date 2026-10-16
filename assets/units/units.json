@@ -1,0 +1,44 @@
+{
+  "tank": {
+    "file": "units/tank.png",
+    "frameWidth": 112,
+    "frameHeight": 112,
+    "directions": 8,
+    "framesPerDirection": 1
+  },
+  "apc": {
+    "file": "units/apc.png",
+    "frameWidth": 48,
+    "frameHeight": 48,
+    "directions": 8,
+    "framesPerDirection": 1
+  },
+  "truck": {
+    "file": "units/truck.png",
+    "frameWidth": 64,
+    "frameHeight": 64,
+    "directions": 8,
+    "framesPerDirection": 1
+  },
+  "harvester": {
+    "file": "units/harvester.png",
+    "frameWidth": 56,
+    "frameHeight": 56,
+    "directions": 8,
+    "framesPerDirection": 1
+  },
+  "car": {
+    "file": "units/car.png",
+    "frameWidth": 48,
+    "frameHeight": 48,
+    "directions": 8,
+    "framesPerDirection": 1
+  },
+  "soldier": {
+    "file": "units/soldier.png",
+    "frameWidth": 64,
+    "frameHeight": 64,
+    "directions": 8,
+    "framesPerDirection": 1
+  }
+}

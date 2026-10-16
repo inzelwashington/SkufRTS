@@ -1,0 +1,50 @@
+{
+  "hq": {
+    "file": "buildings/hq.png",
+    "width": 64,
+    "height": 64,
+    "anchor": "top-left"
+  },
+  "barracks": {
+    "file": "buildings/barracks.png",
+    "width": 64,
+    "height": 64,
+    "anchor": "top-left"
+  },
+  "factory": {
+    "file": "buildings/factory.png",
+    "width": 64,
+    "height": 64,
+    "anchor": "top-left"
+  },
+  "power": {
+    "file": "buildings/power.png",
+    "width": 64,
+    "height": 64,
+    "anchor": "top-left"
+  },
+  "refinery": {
+    "file": "buildings/refinery.png",
+    "width": 64,
+    "height": 64,
+    "anchor": "top-left"
+  },
+  "storage": {
+    "file": "buildings/storage.png",
+    "width": 64,
+    "height": 64,
+    "anchor": "top-left"
+  },
+  "turret": {
+    "file": "buildings/turret.png",
+    "width": 64,
+    "height": 64,
+    "anchor": "top-left"
+  },
+  "wall": {
+    "file": "buildings/wall.png",
+    "width": 64,
+    "height": 64,
+    "anchor": "top-left"
+  }
+}

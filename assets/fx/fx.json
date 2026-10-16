@@ -1,0 +1,26 @@
+{
+  "explosion": {
+    "file": "fx/explosion.png",
+    "frameWidth": 64,
+    "frameHeight": 64,
+    "frames": 4
+  },
+  "explosion_small": {
+    "file": "fx/explosion_small.png",
+    "frameWidth": 48,
+    "frameHeight": 48,
+    "frames": 3
+  },
+  "smoke": {
+    "file": "fx/smoke.png",
+    "frameWidth": 112,
+    "frameHeight": 112,
+    "frames": 6
+  },
+  "muzzle_flash": {
+    "file": "fx/muzzle_flash.png",
+    "frameWidth": 64,
+    "frameHeight": 64,
+    "frames": 4
+  }
+}
